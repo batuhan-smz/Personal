@@ -1,8 +1,7 @@
-👋 Hi, I’m Batuhan Semiz
-👀 I’m interested in Machine Learning and Data Science
-🌱 I’m currently learning Python
-📫 How to reach me : batuhansemiz15@gmail.com
-
+- 👋 Hi, I’m Batuhan Semiz
+- 👀 I’m interested in Machine Learning and Data Science
+- 🌱 I’m currently learning Python
+- 📫 How to reach me : batuhansemiz15@gmail.com
 
 
 
